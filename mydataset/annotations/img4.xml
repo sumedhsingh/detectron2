@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img4.jpg</filename>
+	<path>C:\Users\sumed\detectron\detectron2\mydataset\images\img4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>826</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Narendra Modi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>35</ymin>
+			<xmax>577</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
